@@ -1,0 +1,20 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# Build / preview caches
+/.cache
+**/.preview
+
+# macOS / editor noise
+**/.DS_Store
+*.log
